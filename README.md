@@ -13,6 +13,9 @@ Follow the steps below to set up the project on macOS:
    ```bash
    git clone https://github.com/DaveMatNat/yolo-brain-tumor.git
    ```
+   ```bash
+   cd yolo-brain-tumor
+   ```
 
 3. Create a new Conda environment:
     ```bash
